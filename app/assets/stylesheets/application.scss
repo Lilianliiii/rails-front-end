@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ @import "bootstrap";
+ @import "font-awesome";
+
+ $gray: #717070;
+
+ h1 {
+  color: $gray;
+ }
